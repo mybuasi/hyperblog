@@ -13,7 +13,6 @@ Experimento 1
 
 Experimento 2
 
-Master 1
 >>>>>>> experimento
 
 Hoy hablaremos de su vida y obra maestra.
